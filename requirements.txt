@@ -1,0 +1,8 @@
+transformers
+git+https://github.com/huggingface/peft.git
+torch
+accelerate
+gradio
+Pillow
+matplotlib
+bitsandbytes
